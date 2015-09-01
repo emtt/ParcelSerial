@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ParcelSerial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_object_tran_demo1">ObjectTranDemo1</string>
+    <string name="title_activity_object_pass_demo2">ObjectPassDemo2</string>
+    <string name="title_activity_formulario">Formulario</string>
+
+</resources>
